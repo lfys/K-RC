@@ -1,0 +1,5 @@
+# project file
+.idea
+cmake-build-debug
+CMakeLists.txt
+
